@@ -1,0 +1,4 @@
+name: Skyboard
+version: '${project.version}'
+main: hu.crackpixel.skyboard.skyboard.Skyboard
+load: STARTUP
